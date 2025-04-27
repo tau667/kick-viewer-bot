@@ -1,1 +1,1 @@
-print("read readme")
+print("read readme.md")
