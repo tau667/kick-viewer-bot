@@ -27,7 +27,12 @@
 |:-:|:-:|
 | ![Proof 1](https://raw.githubusercontent.com/taumata667/kick-viewer-bot/refs/heads/main/poofs/1.png) | ![Proof 2](https://raw.githubusercontent.com/taumata667/kick-viewer-bot/refs/heads/main/poofs/2.png) |
 
-> 🧠 *Want to see it in action? Message me for a free live proof demonstration!*
+---
+
+## 🎥 Live Demo
+
+> 📺 **Watch the real-time demo here:**  
+> [![Kick Viewer Bot Demo](https://img.youtube.com/vi/CDBk3WZbrIE/0.jpg)](https://www.youtube.com/watch?v=CDBk3WZbrIE)
 
 ---
 
