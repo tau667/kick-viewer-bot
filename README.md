@@ -1,7 +1,7 @@
 # ✅ Kick Viewer Bot
 
 > The ultimate solution for **undetectable**, **non-dropping** viewers on Kick.com! 🚀
-
+ 
 ---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
