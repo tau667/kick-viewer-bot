@@ -23,9 +23,22 @@
 ---
 
 ## 📸 Proofs
-| | |
-|:-:|:-:|
-| ![Proof 1](https://raw.githubusercontent.com/taumata667/kick-viewer-bot/refs/heads/main/poofs/1.png) | ![Proof 2](https://raw.githubusercontent.com/taumata667/kick-viewer-bot/refs/heads/main/poofs/2.png) |
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/taumata667/kick-viewer-bot/refs/heads/main/poofs/1.png" width="300"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/taumata667/kick-viewer-bot/refs/heads/main/poofs/2.png" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://raw.githubusercontent.com/taumata667/kick-viewer-bot/refs/heads/main/poofs/3stream.png" width="630"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
