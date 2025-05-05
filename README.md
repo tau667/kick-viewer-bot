@@ -25,6 +25,15 @@
 ## 📸 Proofs
 
 <table>
+ <tr>
+  <th colspan="2">1M Viewers</th>
+ </tr>
+ <tr>
+  <td><img src="https://raw.githubusercontent.com/taumata667/kick-viewer-bot/refs/heads/main/poofs/1m_browse.png" width="302"/></td>
+  <td><img src="https://raw.githubusercontent.com/taumata667/kick-viewer-bot/refs/heads/main/poofs/1m_stream.png" width="302"/></td>
+ </tr>
+</table>
+<table>
   <tr>
     <td colspan="2" align="center">
       <img src="https://raw.githubusercontent.com/taumata667/kick-viewer-bot/refs/heads/main/poofs/700k.png" width="630"/>
