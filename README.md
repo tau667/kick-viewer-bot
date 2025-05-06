@@ -47,6 +47,9 @@
 </table>
 <table>
   <tr>
+   <th colspan="2">< 800K Viewers</th>
+  </tr>
+  <tr>
     <td colspan="2" align="center">
       <img src="https://raw.githubusercontent.com/taumata667/kick-viewer-bot/refs/heads/main/poofs/700k.png" width="630"/>
     </td>
