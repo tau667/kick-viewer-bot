@@ -29,8 +29,8 @@
   <th colspan="2">1M Viewers</th>
  </tr>
  <tr>
-  <td><img src="https://raw.githubusercontent.com/taumata667/kick-viewer-bot/refs/heads/main/poofs/1m_5_browse.png" width="302"/></td>
   <td><img src="https://raw.githubusercontent.com/taumata667/kick-viewer-bot/refs/heads/main/poofs/1m_5_stream.png" width="302"/></td>
+  <td><img src="https://raw.githubusercontent.com/taumata667/kick-viewer-bot/refs/heads/main/poofs/1m_5_browse.png" width="302"/></td>
  </tr>
  <tr>
   <td><img src="https://raw.githubusercontent.com/taumata667/kick-viewer-bot/refs/heads/main/poofs/1m_4_browse.png" width="302"/></td>
