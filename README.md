@@ -1,3 +1,5 @@
+**Bypassed Kick's latest update, still working as of now. DM me on TG if you're interested.**
+
 # ✅ Kick Viewer Bot
 
 > The ultimate solution for **undetectable**, **non-dropping** viewers on Kick.com! 🚀
